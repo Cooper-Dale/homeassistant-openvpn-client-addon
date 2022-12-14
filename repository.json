@@ -1,6 +1,6 @@
 {
-    "name": "OpenVPN Client",
-    "url": "https://github.com/Ailme/homeassistant-openvpn-client",
-    "maintainer": "Alexandr Tumaykin <alexandrtumaykin@gmail.com>"
+    "name": "OpenVPN Client for Leos U",
+    "url": "https://github.com/Cooper-Dale/homeassistant-openvpn-client",
+    "maintainer": "Cooper Dale <copoer@post.cz>"
   }
   
